@@ -1,0 +1,19 @@
+{
+  "name": "mongodb2",
+  "version": "1.0.0",
+  "description": "## To Do 1. Simple backend that talks with mongodb 2. zod validation library for password and email validation 3. Password hashing and save in db 4. Some advance concepts of mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.16.2",
+    "zod": "^4.0.5"
+  }
+}

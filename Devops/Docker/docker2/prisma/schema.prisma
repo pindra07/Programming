@@ -1,0 +1,26 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model User {
+    id Int @id @default(autoincrement(())
+    posts Post[]
+}
+
+model Post {
+    id Int @id @default(autoincrement())
+    author User @relation(fields: [authorId], refereneces: [id])
+    authorId Int
+    title String
+}
+
+model Article {
+    id Int @id @default(uuid())
+    author User @relation(fields: [authorId], references: [id])
+    authorId Int
+}

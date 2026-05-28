@@ -1,0 +1,80 @@
+# Lists of all the Data Structures and Algorithm
+
+**Data Structures**
+- [] Arrays
+- [] Linked Lists
+    - [] Singly Linked List
+    - [] Doubly Linked List
+    - [] Circular Linked List
+- [] Stacks
+- [] Queues
+    - [] Simple Queue
+    - [] Circular Queue
+    - [] Priority Queue
+    - [] Deque (Double-Ended Queue)
+- [] Trees
+    - [] Binary Trees
+    - [] Binary Search Trees (BST)
+    - [] Self-Balancing Trees
+        - [] AVL Tree
+        - [] Red-Black Tree
+- [] Heaps
+    - [] Min-Heap
+    - [] Max-Heap
+- [] Tries (Prefix Trees)
+- [] Database/Disk Trees
+    - [] B-Tree
+    - [] B+Tree
+- [] Graph-Based Data Structures
+    - [] Directed vs Undirected Graphs
+    - [] Weighted vs Unweighted Graphs
+    - [] Representations: Adjacency Matrix & Adjancy List
+- [] Hashing Data Structures
+    - [] Hash Tables/Hash Maps 
+    - [] Bloom Filters
+- [] Advanced/Specialized Data Structures
+    - [] Disjoint Set (Union-Find)
+    - [] Segment Tree
+    - [] Fenwick Tree (Binary Indexed Tree)
+
+**Algorithms**
+- [] Linear Search
+- [] Binary Search
+- [] Ternary Search (Divide and Conquer Search Algorithm that splits the array into three parts)
+- [] Sorting Algorithms
+    - [] Basic Quadratic (O(N^2))
+    - [] Efficient/Logarithmic (O(Nlog(N))): Merge Sort, Quick Sort, Heap Sort
+    - [] Non-Comparison/Linear (Counting Sort, Radix Sort, Bucket Sort)
+- [] Graphy Algorithms
+    - [] Traversal
+        - [] Breadth-First Search (BFS)
+        - [] Depth-First Search (DFS)
+    - Shortest Path
+        - [] Dijkstra's Algorithm
+        - [] Bellman-Ford Algorithm
+        - [] Floyd-Warshall Algorithm 
+    - [] Minimum Spanning Tree (MST)
+        - [] Kruskal's Algorithm
+        - [] Prim's Algorithm
+    - [] Other Graph Algorithms
+        - [] Topological Sorting (For scheduling jobs with dependencies)
+        - [] Tarjan's Algorithm (Finding Strongly Connected Components)
+- [] Dynamic Programming
+    - [] 1D DP
+    - [] 2D DP
+- [] Greedy Algorithms
+    - [] Huffman Coding
+    - [] Activity Selection Problem
+    - [] Fractional Knapsack
+- [] Backtracking Algorithms
+    - [] N-Queens Problem
+    - [] Sudoku Solver
+    - [] Subset Sum / Combinations
+- [] String Matching Algorithms
+    - [] Knuth-Morris-Pratt (KMP)
+    - [] Rabin-Karp Algorithm
+    - [] Z-Algorithm
+- [] Mathematical & Number Theory Algorithms
+    - [] Euclidean Algorithm
+    - [] Sieve of Eratosthenes
+    - [] Fast Exponentiation/Modular Arithmetic
