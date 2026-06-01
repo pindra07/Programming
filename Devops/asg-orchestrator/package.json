@@ -11,6 +11,7 @@
   "license": "ISC",
   "packageManager": "pnpm@10.33.0",
   "dependencies": {
+    "@aws-sdk/client-auto-scaling": "^3.1057.0",
     "express": "^5.2.1"
   }
 }
