@@ -1,5 +1,4 @@
 package main
-
 import (
 	"fmt"
 	"math"
@@ -51,7 +50,7 @@ func main() {
 
 	// Switch Statements
 
-	gender := "female"
+	gender := "male"
 
 	switch gender {
 	case "male":
