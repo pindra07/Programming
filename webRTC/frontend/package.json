@@ -11,8 +11,11 @@
   },
   "dependencies": {
     "@types/webrtc": "^0.0.47",
+    "dev": "^0.1.5",
     "react": "^19.2.8",
-    "react-dom": "^19.2.8"
+    "react-dom": "^19.2.8",
+    "react-router": "^8.3.0",
+    "socket.io-client": "^4.8.3"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
